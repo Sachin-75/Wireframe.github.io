@@ -203,7 +203,7 @@ nav ul li a {
 
 @media(max-width: 768px) {
     .hero {
-        background: url('https://files.oaiusercontent.com/file-8R2zf4ya7eduCg4SC84rxodn?se=2024-08-13T16%3A22%3A16Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3258c6e9-7fd3-434a-8add-4f4447686b98.webp&sig=4noOuVLSclnijdrhL8dl4UW8lJ/ftIRkXz3Qr2eSeIs%3D') no-repeat center center;
+        background: url('./hero.jpg') no-repeat center center;
         background-size: cover;
         color: #231717;
     }
